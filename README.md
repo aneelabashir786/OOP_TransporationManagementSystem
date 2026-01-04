@@ -73,7 +73,7 @@ A comprehensive console-based Transport Management System developed in C++ for m
 
 1. **Clone or Download the Project**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/aneelabashir786/OOP_TransporationManagementSystem
    cd transport-management-system
    ```
 
